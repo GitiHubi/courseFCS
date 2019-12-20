@@ -10,9 +10,9 @@ This is currently work in progress so expect minor errors and some rough edges ;
 
 ## Running the Lab Notebooks in Binder:
 
-**Lab 01:** "Supervised Deep Learning - ANNs" ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/financial-data-science/courseFCS/master?filepath=lab_01%2Ffcs_colab_01.ipynb))
+**Lab 01:** "Supervised Deep Learning - ANNs" ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/courseFCS/master?filepath=lab_01%2Ffcs_colab_01.ipynb))
 
-**Lab 02:** "Supervised Deep Learning - CNNs" ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/financial-data-science/courseFCS/master?filepath=lab_02%2Ffcs_colab_02.ipynb))
+**Lab 02:** "Supervised Deep Learning - CNNs" ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/courseFCS/master?filepath=lab_02%2Ffcs_colab_02.ipynb))
 
 ## Running the Lab Notebooks in Google's Colab:
 
